@@ -1,7 +1,3 @@
-// https://www.javatpoint.com/the-wumpus-world-in-artificial-intelligence
-// https://www.geeksforgeeks.org/ai-the-wumpus-world-description/
-// https://programsinengineering.blogspot.com/2017/02/wumpus-world-problem-implementation.html 
-
 import java.util.Scanner;
 public class WumpusWorld {
   private static final char stench = 'S';
