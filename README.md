@@ -13,6 +13,6 @@ The Wumpus world is a classic example of a knowledge-based AI problem, because t
 
 ## Install 
 ### To compile
- *javac WumpusWorld.java* < /br>
-*java WumpusWorld*< /br>
+ *javac WumpusWorld.java* </br>
+*java WumpusWorld*</br>
 
